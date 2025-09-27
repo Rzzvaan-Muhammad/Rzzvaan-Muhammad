@@ -11,7 +11,7 @@ I specialize in **React & Next.js**, delivering **clean architectures, fast UIs,
 - **Frontend Engineer @ Ustaff360** *(Dec 2024 – Present)*  
   Building a **Next.js 15 + TailwindCSS** health record system for the **Kenya Ministry of Health**, with end-to-end testing powered by Playwright.  
 
-- **Senior Frontend Developer @ Kross Finance Korea** *(Apr 2022 – Present)*  
+- **Senior Frontend Developer @ Kross Finance Korea** *(Apr 2022 – Nov 2024)*  
   Architected **6+ web & mobile apps** for a P2P lending platform, optimized performance with Lighthouse, and delivered responsive apps using React, Next.js, and React Native.  
 
 - **Frontend Developer @ NerdyFactory** *(Jun 2021 – Mar 2022)*  
