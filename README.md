@@ -16,7 +16,7 @@ From **fintech platforms** to **healthcare solutions**, I build products that do
 - **Frontend Engineer @ Ustaff360** *(Dec 2024 – Present)*  
   Building a **Next.js 15 + TailwindCSS** health record system for the **Kenya Ministry of Health**, ensuring quality with **Playwright E2E testing**.  
 
-- **Senior Frontend Developer @ Kross Finance Korea** *(Apr 2022 – Present)*  
+- **Senior Frontend Developer @ Kross Finance Korea** *(Apr 2022 – Nov 2024)*  
   Architected and maintained **6+ apps** (web + mobile) for a P2P lending platform.  
   🚀 Improved **performance, SEO, and accessibility** with Lighthouse optimizations.  
 
